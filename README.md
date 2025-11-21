@@ -51,7 +51,7 @@ A integração entre o dispositivo IoT e a plataforma na nuvem foi validada com 
 
 **Print da Simulação em Funcionamento:**
 
-![Evidência de Integração](https://imgur.com/a/UcLOOCM)
+![Evidência de Integração](https://imgur.com/a/GlHcxl7)
 
 **Exemplo do Payload JSON enviado:**
 
